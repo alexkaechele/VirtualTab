@@ -1,0 +1,18 @@
+Package: VirtualTab
+Title: Automates Debate Tab Room
+Version: 0.0.0.9000
+Authors@R:
+    person(given = "Alex",
+           family = "Kaechele",
+           role = c("aut", "cre"),
+           email = "xkaech@gmail.com")
+Description: This package takes user input on debate results in order to
+    generate pairings and determine sweeps. These outputs are displayed in a
+    shiny application. Right now it only works for tournaments without
+    out-rounds.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
+Suggests: 
+    testthat (>= 2.1.0)
