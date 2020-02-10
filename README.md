@@ -22,7 +22,7 @@ Installation*" and "*How to Run*".
 The first time you use the app you will need to install the package. To install
 from github run:
 
-```
+```r
 install.packages("devtools")
 devtools::install_github("alexkaechele/VirtualTab")
 ```
@@ -31,7 +31,7 @@ devtools::install_github("alexkaechele/VirtualTab")
 
 To launch the app run:
 
-```
+```r
 library(VirtualTab)
 runTabRoom(tournament= "RR Debate")
 ```
