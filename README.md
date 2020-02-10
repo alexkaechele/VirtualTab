@@ -9,8 +9,9 @@ and determine sweeps.
 ## New to R Guide
 
 If you are a team that is new to R and you want to find a way to automate your
-tabroom process, this [installation guide](https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924/)
-may be useful to you.
+tabroom process, this [installation guide](https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924/) may be useful to you (NOTE: Follow the guide
+to install R and Rstudio. The SDSFoundations package will not be needed for
+this).
 
 Once you have R and RStudio installed, follow the guides under "*Package
 Installation*" and "*How to Run*".
@@ -37,4 +38,4 @@ runTabRoom(tournament= "RR Debate")
 
 ## Getting Help
 
-If you are experiencing difficulties in any step see <insert resource>:
+If you are experiencing difficulties in any step see *insert resource*:
